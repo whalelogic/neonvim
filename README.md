@@ -1,34 +1,6 @@
-# Custom NeoVim Config
-#### A custom, very powerful NeoVim configuration based on NvChad and LazyVim
+**This repo is supposed to used as config by NvChad users!**
 
-Combine this with **Wezterm** terminal emulator and you have a very powerful coding environment!
-
-# Features
-- Based on NvChad and LazyVim
-- Very fast and lightweight
-- Modular structure
-- Easy to customize
-- Comes with a lot of plugins pre-installed
-- Lazy loading of plugins
-- Custom keybindings
-- Pre-configured LSP, DAP, Treesitter, Telescope, etc.
-- Theme support ( including catppuccin theme )
-- Built-in Copilot support (`Ctrl + l` to accept suggestion **Tab works fine!**)
-- Pre-configured for **Python, Go, Javascript/Typescript, Rust, Lua, etc.**
-- Linters and formatters pre-configured
-- File explorer `Ctrl+n to toggle`)
-- Statusline and bufferline
-- Fuzzy finder
-- Telescope integration
-- Autocompletion with blink
-- And much more!
-
-<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/8dd2ab95-9689-4525-8afe-f0632ca88ab9" />
-
-
-
-
-
+- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
 - So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
 - So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
 
