@@ -1,7 +1,7 @@
 # Custom NeoVim Config
 #### A custom, very powerful NeoVim configuration based on NvChad and LazyVim
 
-Combine this with Wezterm terminal emulator and you have a very powerful coding environment!
+Combine this with **Wezterm** terminal emulator and you have a very powerful coding environment!
 
 # Features
 - Based on NvChad and LazyVim
@@ -13,15 +13,18 @@ Combine this with Wezterm terminal emulator and you have a very powerful coding 
 - Custom keybindings
 - Pre-configured LSP, DAP, Treesitter, Telescope, etc.
 - Theme support ( including catppuccin theme )
-- Built-in Copilot support (Ctrl + l to accept suggestion (Tab works fine!))
-- Pre-configured for Python, Go, Javascript/Typescript, Rust, Lua, etc.
+- Built-in Copilot support (`Ctrl + l` to accept suggestion **Tab works fine!**)
+- Pre-configured for **Python, Go, Javascript/Typescript, Rust, Lua, etc.**
 - Linters and formatters pre-configured
-- File explorer (Ctrl+n to toggle)
+- File explorer `Ctrl+n to toggle`)
 - Statusline and bufferline
 - Fuzzy finder
 - Telescope integration
 - Autocompletion with blink
 - And much more!
+
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/8dd2ab95-9689-4525-8afe-f0632ca88ab9" />
+
 
 
 
